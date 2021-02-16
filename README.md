@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ASP.NET MVC Docker Sample
 
 This [sample](Dockerfile) demonstrates how to use ASP.NET MVC and Docker together. See [ASP.NET Docker Sample](../aspnetapp/README.md) and [.NET Framework Console Docker Sample](../dotnetapp/README.md) for using Docker in other scenarios.
@@ -115,3 +116,7 @@ Docs and More Information:
 * [dotnet](https://hub.docker.com/_/microsoft-dotnet/): .NET
 * [dotnet/samples](https://hub.docker.com/_/microsoft-dotnet-samples/): .NET Samples
 * [dotnet-nightly](https://hub.docker.com/_/microsoft-dotnet-nightly/): .NET (Preview)
+=======
+# aspnet-mvc-sample
+aspnet-mvc-sample
+>>>>>>> 8e1dfba355293081ca3466bdb365598a3a752e17
