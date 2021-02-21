@@ -1,2 +1,0 @@
-asp net mvc sample
-
